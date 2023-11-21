@@ -195,7 +195,7 @@
 
         // Reply to the user
         let url = "https://api.openai.com/v1/chat/completions";
-        let OPENAI_API_KEY = "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";
+        let OPENAI_API_KEY = "xxx";
 
         let headers = {
             "Content-Type": "application/json",
